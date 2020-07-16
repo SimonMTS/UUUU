@@ -19,7 +19,7 @@ BANE
 for you
 ```
 ```
-$ banecoding Simple.uuuu
+$ UUUU Simple.uuuu
 $ ./Simple
 $ It would be extremely painful.
 ```
@@ -49,7 +49,7 @@ for you
 ```
 
 ```
-$ banecoding Complicated.uuuu
+$ UUUU Complicated.uuuu
 $ ./Complicated
 $ Big guy, for you
 $ ./Complicated Cia
