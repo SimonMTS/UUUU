@@ -7,7 +7,7 @@ But really just cross-compiles to a small subset of c++.
 It's developed on and for Debian/Windows Subsystem for Linux (Debian).
 And probably only works there, since it uses shell commands.
 It might work on MacOS, but definitely won't work on windows.
-To run the compiler must have access to the g++ c++ compiler on the commandline.
+To run, the compiler must have access to the g++ c++ compiler on the commandline.
 
 ### HelloWorld example:
 Simple.uuuu
