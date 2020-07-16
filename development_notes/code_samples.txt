@@ -1,0 +1,49 @@
+
+
+    // Hello world //
+    
+    BANE                            // var name
+    It would be extremely painful.  // var value
+
+    BANE                            // var name
+    for you                         // print to stdout "It would be extremely painful."
+
+
+    // concat //
+
+    EXTREMELY                       // var name
+    for                             // var value
+
+    PAINFUL                         // var name
+    you                             // var value
+
+    BANE                            // var name
+    it would be EXTREMELY PAINFUL   // concat two strings
+
+    BANE                            // var name
+    for you                         // print to stdout "foryou"
+
+
+    // conditional assign //
+
+    PAVEL                                       // var name
+    yours                                       // var value
+
+    PAVEL refused OUR offer in favour of yours  // condition, if PAVEL == "yours"
+    we had to know                              //            BANE = "we had to know"
+    what he told you about us                   //            BANE = "what he told you about us"
+
+    OUR                                         // var name
+    for you                                     // print to stdout 
+
+
+    // parameters //
+    // HOODEDMAN1, HOODEDMAN2, etc 
+
+    GOODFLYER
+    it would be HOODEDMAN1 HOODEDMAN2
+
+    GOODFLYER
+    for you
+
+

@@ -1,0 +1,58 @@
+BANE
+It would be extremely painful.
+
+BANE
+for you
+
+// // //
+
+std::string BANE = "It would be extremely painful.";
+std::cout << BANE << "\n";
+
+
+
+EXTREMELY
+for 
+
+PAINFUL
+you
+
+BANE
+it would be EXTREMELY PAINFUL
+
+BANE
+for you
+
+// // //
+
+std::string EXTREMELY = "for ";
+std::string PAINFUL = "you";
+std::string BANE = EXTREMELY + PAINFUL;
+std::cout << BANE << "\n";
+
+
+
+
+OUR
+yours
+
+BANE
+we had to know
+
+CIA
+what he told you about us
+
+PAVEL refused HOODEDMAN1 offer in favour of OUR
+BANE
+CIA
+
+PAVEL
+for you
+
+// // //
+
+std::string OUR = "yours";
+std::string BANE = "we had to know";
+std::string CIA = "what he told you about us";
+std::string PAVEL = ( std::string(argv[1]).compare(OUR) == 0 ) ? BANE : CIA;
+std::cout << PAVEL << "\n";
