@@ -1,7 +1,7 @@
 # UUUU, aka Four U, aka For You
 
 An [esolang] based on The Dark Knight Rises; [Plane Scene] quotes.
-UUUU only allows string asignments, including concatenation, and conditional assignments.
+UUUU only allows string assignments, including concatenation, and conditional assignments.
 But really just cross-compiles to a small subset of c++.
 
 It's developed on and for Debian/Windows Subsystem for Linux (Debian).
@@ -18,6 +18,7 @@ It would be extremely painful.
 BANE
 for you
 ```
+
 ```
 $ UUUU Simple.uuuu
 $ ./Simple

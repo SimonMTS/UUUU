@@ -47,3 +47,39 @@
     for you
 
 
+    // addition //
+
+    NOTHING
+    3
+
+    DIRT
+    6
+
+    BANE
+    We are NOTHING. We are the DIRT beneath your feet.
+
+    BANE
+    for you
+
+
+    // subtraction //
+     
+    var1
+    3
+
+    var2
+    6
+
+    var3
+    LOT OF var1 FOR A var2!
+
+    var3
+    for you
+
+
+    // conditional goto/label //
+
+    The fire1 rises.             // label
+
+    mercenary1                   // if not "null"
+    Have we started the fire1?   // goto

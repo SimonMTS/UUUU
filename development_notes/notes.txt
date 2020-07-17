@@ -56,3 +56,90 @@ std::string BANE = "we had to know";
 std::string CIA = "what he told you about us";
 std::string PAVEL = ( std::string(argv[1]).compare(OUR) == 0 ) ? BANE : CIA;
 std::cout << PAVEL << "\n";
+
+
+
+
+
+var1
+3
+
+var2
+6
+
+var3
+We are var1. We are the var2 beneath your feet.
+
+var3
+for you
+
+// // //
+
+std::string var1 = "3";
+std::string var2 = "6";
+
+std::string var3 = to_string(stoi(var1) + stoi(var2));
+
+
+
+
+
+
+
+
+counter
+0
+
+DIRT
+1
+
+CIA
+5
+
+BANE
+whatever.
+
+OURGUY
+no friends
+
+The var1 rises.
+
+counter
+for you
+
+counter
+We are counter. We are the DIRT beneath your feet.
+
+var2 refused counter offer in favour of CIA
+BANE
+OURGUY
+
+var2
+Have we started the var1?
+
+fin
+the end
+
+fin
+for you
+
+// // //
+
+std::string NOTHING = "0";
+std::string PAVEL = "no friends";
+FIRE: ;
+std::cout << NOTHING << "\n";
+std::string DIRT = "1";
+NOTHING = std::to_string(stoi(NOTHING) + stoi(DIRT));
+std::string MASKEDMAN = "no friends";
+std::string BANE = "Big guy, for you.";
+std::string CIA = "10";
+PAVEL = ( NOTHING.compare(CIA) == 0 ) ? BANE : MASKEDMAN;
+if ( PAVEL.compare("no friends") == 0 ) goto FIRE;
+BANE = "Crashing this plane with no survivors.";
+std::cout << BANE << "\n";
+
+
+
+
+
